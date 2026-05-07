@@ -1,6 +1,6 @@
 # 42 Roma Elis 🇮🇹
 
-![42 Roma Elis Logo](https://42roma.it/wp-content/themes/42roma/assets/images/loghi/logo_42roma.png)
+![42 Roma Elis Logo](https://42roma.it/wp-content/uploads/2026/05/42ROMA-side-black.png)
 
 ## 📌 Cos’è 42 Roma Elis?
 [**42 Roma Elis**](https://www.42roma.it/) è il campus italiano della rete internazionale **42 Network**, una delle scuole di programmazione più innovative al mondo.  
@@ -50,7 +50,7 @@ Il percorso non prevede titoli o diplomi tradizionali, ma è strutturato su prog
 
 # 42 Roma Elis 🇬🇧
 
-![42 Roma Elis Logo](https://42roma.it/wp-content/themes/42roma/assets/images/loghi/logo_42roma.png)
+![42 Roma Elis Logo](https://42roma.it/wp-content/uploads/2026/05/42ROMA-side-black.png)
 
 ## 📌 What is 42 Roma Elis?
 [**42 Roma Elis**](https://www.42roma.it/) is the Italian campus of the international **42 Network**, one of the most innovative programming schools in the world.  
